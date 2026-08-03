@@ -2,9 +2,6 @@
 
 > Исправленная версия конфигов маршрутизации от [RoscomVPN Routing](https://github.com/hydraponique/roscomvpn-routing)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Sh2rval/RoscomVPNConfigs)
-![GitHub release](https://img.shields.io/github/v/release/Sh2rval/RoscomVPNConfigs)
-
 ---
 
 ## 📌 О проекте
