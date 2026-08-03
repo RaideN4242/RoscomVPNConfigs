@@ -1,4 +1,4 @@
-# 🔥 RoscomVPNConfig
+# 🔥 RoscomVPN FIX для RU VPS
 
 > Исправленная версия конфигов маршрутизации от [RoscomVPN Routing](https://github.com/hydraponique/roscomvpn-routing)
 
