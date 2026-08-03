@@ -30,8 +30,6 @@
 В раздел `DirectSites` добавлен домен `gstatic.com`, а в настройках XRAY указан URL для теста исходящего:  
 👉 `https://www.gstatic.com/generate_204`
 
-![image](https://img.shields.io/badge/%D0%98%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE-%F0%9F%85%B4%F0%9F%85%BA%F0%9F%85%B4%F0%9F%85%BA-success)
-
 ---
 
 ⚙️ Настройка сервера
